@@ -1,0 +1,20 @@
+@font-face {
+    font-family: vazir;
+    src: url(/assets/font/Vazirmatn-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: vazir;
+    src: url(/assets/font/Vazirmatn-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: vazir;
+    src: url(/assets/font/Vazirmatn-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: vazir;
+    src: url(/assets/font/Vazirmatn-Bold.ttf);
+    font-weight: 700;
+}
